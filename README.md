@@ -11,3 +11,6 @@ Key Features
 Technologies Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - Jupyter Notebooks for analysis
+
+##How to Run the Project
+Download the repository and open the output.html file in a web browser to view the analysis results.
